@@ -1,10 +1,10 @@
 //
 // F# image processing functions.
 //
-// More details?
+// This code processes an image, converting it to grayscale using the defined functions.
+// Similar calls can be made for thresholding, flipping, edge detection, and rotating the image.
 //
 // Daniyal Khokhar
-// UIC
 // 3/22/2023
 
 namespace ImageLibrary
